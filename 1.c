@@ -3,6 +3,4 @@
 int main()
 {
 	int sy = 0;
-
-	return 0;
 }
