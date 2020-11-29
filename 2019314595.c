@@ -17,5 +17,4 @@ int main()
 	printf("Math: %d\n", math);
 	printf("sum: %d\n", sum);
 
-	return 0;
 }
